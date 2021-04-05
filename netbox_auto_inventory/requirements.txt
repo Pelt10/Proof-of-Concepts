@@ -1,0 +1,4 @@
+py-dmidecode==0.1.0
+pynetbox==5.3.1
+python-dotenv==0.17.0
+
